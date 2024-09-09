@@ -1,0 +1,7 @@
+Final Fantasy I     5
+Final Fantasy II        6
+Final Fantasy III       4
+Final Fantasy IV        8
+Final Fantasy V     3
+Final Fantasy VI        1
+Final Fantasy VII           4
